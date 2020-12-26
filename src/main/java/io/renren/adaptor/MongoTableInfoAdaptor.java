@@ -15,6 +15,7 @@ import java.util.Map;
  **/
 public class MongoTableInfoAdaptor {
 
+
     /**
      * 查询表信息的时候 mongo只能获得表名 其他只能手动填写
      *
